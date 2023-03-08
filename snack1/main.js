@@ -13,7 +13,7 @@ const invitati = [ 'Brad Pitt', 'Johnny Depp', 'Lady Gaga', 'Cristiano Ronaldo',
 const listaTipografia = invitati.map((invitato,indice) => (
     {
         tavolo: 'Tavolo Vip',
-        posto: indice,
+        posto: indice + 1,
         nome: invitato
     }
 ))
