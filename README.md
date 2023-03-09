@@ -17,3 +17,10 @@ Creo un array di oggetti nel quale vi inserisco due proprietà.
 Inizializzo una variabile pari a 0, che ci serve per identificare la bici più leggera.
 Cicliamo l'array con un for each loop e con un if statement controlliamo quale bici nel mio array ha la proprietà peso minore.
 Con il destructuring mi salvo in due variabili il peso e nome della bici più leggera e infine stampo in console il risultato usando il template literal
+
+SNACK 4
+
+Definisco un array di oggetti, relativo alla varie squadre.
+Definisco una funzione che genera numeri random.
+Con un ciclo for each, salvo nei vari oggetti le due proprietà, inizializzate a 0, i valori generati random.
+Definisco un secondo array e con un secondo ciclo for each e usando la destrutturazione degli oggetti, salvo i valori di nomi e falli subiti sul mio secondo array, il quale verrà stampato in console.
